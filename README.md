@@ -1,3 +1,15 @@
-# ahk-scripts-cpv
-AHK scripts designed for funnies and trollies.
-and no, i wont be updating them. these will be 31jan2026 as latest.
+# AHK scripts designed for funnies and trollies.
+
+## Controls
+
+- F1 to activate
+
+- F2 to increase
+
+- F3 to decrease
+
+- F4 return to default value
+
+---
+
+Ill add more if i feel like it, they wont be updated and there will be no pre-releases.
