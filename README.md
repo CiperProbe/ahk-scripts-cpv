@@ -14,7 +14,7 @@
 
 ---
 
-There will be no updates or anything pre-released.
+There will be no updates or anything pre-released. (only when i feel like it >:3)
 
 ---
 
